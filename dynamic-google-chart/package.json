@@ -1,0 +1,13 @@
+{
+  "name": "polymer-3-demo",
+  "version": "1.0.0",
+  "main": "src/sample-module.js",
+  "repository": "https://github.com/aravindnc/polymer-3.0-demo.git",
+  "author": "Aravind NC <aravind_n_c@yahoo.co.in>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/polymer": "latest",
+    "google-chart-polymer-3": "^3.0.1"
+  }
+}

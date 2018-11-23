@@ -1,0 +1,11 @@
+{
+  "description": "Polymer 3.0 Demo",
+  "manifest_version": 1,
+  "name": "Polymer 3.0 Demo",
+  "short_name": "Polymer3Demo",
+  "version": "0.1",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "theme_color":"#fff"  
+}
